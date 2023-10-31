@@ -1,5 +1,5 @@
 const star= ()=>{
     return(
-    console.log("helloworld")
+    console.log("helloworld shruti")
     )
 }
